@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.example.achraf.recycleviewtutorialinit"
+        applicationId "com.example.achraf.recyvleviewtutorial"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
